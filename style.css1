@@ -1,0 +1,20 @@
+  h1 {
+    color: red;
+    text-align: center;
+}
+  h2 {
+  text-align: center;
+  text-decoration: underline;
+  }
+  p {
+    color: green;
+    font-family: Tahoma;
+}
+
+  ul {
+    font-style: italic;
+}
+  ol {
+  font-weight: bold;
+  font-size: 20px;
+}
